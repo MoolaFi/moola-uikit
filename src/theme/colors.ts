@@ -38,7 +38,7 @@ export const darkColors: Colors = {
   ...baseColors,
   ...brandColors,
   secondary: "#9A6AFF",
-  background: "#343135",
+  background: "#230039",
   bgimg: "url('images/moolabg.jpg')",
   backgroundDisabled: "#3c3742",
   contrast: "#FFFFFF",
