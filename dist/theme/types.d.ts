@@ -38,6 +38,7 @@ export declare type Colors = {
     invertedContrast: string;
     input: string;
     background: string;
+    bgimg: string;
     backgroundDisabled: string;
     text: string;
     textDisabled: string;
