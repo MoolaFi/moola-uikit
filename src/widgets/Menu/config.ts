@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/goosedefi",
+        href: "https://t.me/moolatoken",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -163,8 +163,8 @@ export const socials = [
       //   href: "https://t.me/pancakeswapfr",
       // },
       {
-        label: "Announcements",
-        href: "https://t.me/goosefinanceann",
+        label: "Waterfall Bot",
+        href: "https://t.me/mlawaterfall",
       },
       // {
       //   label: "Whale Alert",
@@ -175,7 +175,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/FinanceGoose",
+    href: "https://twitter.com/mlatoken",
   },
 ];
 
