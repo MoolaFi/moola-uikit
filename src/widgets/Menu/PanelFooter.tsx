@@ -82,8 +82,6 @@ const PanelFooter: React.FC<Props> = ({
           <PriceLink href={priceLink} target="_blank">
             <PancakeRoundIcon width="24px" mr="8px" />
             <Text color="textSubtle" bold>{`$${mlaPriceUsd.toFixed(3)}`}</Text>
-          </PriceLink>
-          <PriceLink href={priceLink} target="_blank">
             <OXRoundIcon width="24px" mr="8px" />
             <Text color="textSubtle" bold>{`$${cakePriceUsd.toFixed(3)}`}</Text>
           </PriceLink>
