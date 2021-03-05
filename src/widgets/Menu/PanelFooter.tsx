@@ -60,6 +60,7 @@ const PanelFooter: React.FC<Props> = ({
   toggleTheme,
   isDark,
   cakePriceUsd,
+  mlaPriceUsd,
   currentLang,
   langs,
   setLang,
